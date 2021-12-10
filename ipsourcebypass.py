@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # File name          : ipsourcebypass.py
-# Author             : Podalirius (@podalirius_)
+# Author             : hunganhprox
 # Date created       : 10 Oct 2021
 
 import argparse
